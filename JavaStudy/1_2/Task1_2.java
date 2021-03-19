@@ -43,7 +43,7 @@ public class Task1_2 {
         int[] intArray = { 10, 20, 30, 40, 50 };
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
-        // intArray[1]が２０、intArray[4]が５０、そしてそれらを足して出力している
+        // intArray[1]が２０、intArray[4]が５０、そしてそれらを足して出力している.
         System.out.println(intArray[1] + intArray[4]);
 
     }
