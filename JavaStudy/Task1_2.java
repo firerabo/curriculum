@@ -13,7 +13,7 @@ public class Task1_2 {
     public static void main(String[] args) {
 
         // ①「JAPAN」、「AMERICA」、「KOREA」を要素の値（初期値）とする配列 countryを作成しなさい。
-        String[] country = new String[3];
+        String[] country = new String[3];　
 
         country[0] ="JAPAN";  
         country[1] ="AMERICA"; 
@@ -43,7 +43,7 @@ public class Task1_2 {
         int[] intArray = { 10, 20, 30, 40, 50 };
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
-        // intArray[1]が２０、intArray[4]が５０、そしてそれらを足して出力している
+        // intArray[1] + intArray[4]の実行
         System.out.println(intArray[1] + intArray[4]);
 
     }
